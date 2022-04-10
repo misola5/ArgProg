@@ -1,0 +1,9 @@
+header div img {
+    height: 250px;
+    width: 100%;
+}
+body {
+    background-color: black;
+    margin: 0%;
+    padding: 0%;
+}
